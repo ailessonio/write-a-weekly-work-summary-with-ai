@@ -2,7 +2,7 @@
 
 # 使用 AI 撰写工作周报
 
-**Languages:** [English](README.md) · [简体中文](README_zh.md)
+**语言:** [English](README.md) · [简体中文](README_zh.md) · [日本語](README_ja.md) · [Deutsch](README_de.md) · [Français](README_fr.md) · [Español](README_es.md) · [한국어](README_ko.md) · [Português](README_pt.md) · [Русский](README_ru.md) · [العربية](README_ar.md)
 
 <p align="center">
   <a href="https://ailesson.io/zh/courses/write-a-weekly-work-summary-with-ai">
